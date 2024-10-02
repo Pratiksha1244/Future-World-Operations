@@ -37,3 +37,7 @@ The website consists of a main homepage and four detailed subpages that cover va
 ## screenshots
 ![Screenshot 2024-10-03 003023](https://github.com/user-attachments/assets/84fd2878-40fb-4a64-a107-be7080a3c7a8)
 
+![Screenshot 2024-10-03 003038](https://github.com/user-attachments/assets/9cafed8f-50f6-42d5-be91-f13fbea69b3e)
+
+
+
