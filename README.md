@@ -1,5 +1,4 @@
 # Future-World-Operations
-# Future World Operations
 
 This is a web development project that explores the future of human existence and technological advancements through a series of futuristic themes. The website presents hypothetical scenarios about how the world may evolve in the coming years, with a focus on innovative and thought-provoking ideas.
 
@@ -36,3 +35,5 @@ The website consists of a main homepage and four detailed subpages that cover va
    ```bash
    git clone https://github.com/yourusername/future-world-operations.git
 ## screenshots
+![Screenshot 2024-10-03 003023](https://github.com/user-attachments/assets/84fd2878-40fb-4a64-a107-be7080a3c7a8)
+
