@@ -39,5 +39,10 @@ The website consists of a main homepage and four detailed subpages that cover va
 
 ![Screenshot 2024-10-03 003038](https://github.com/user-attachments/assets/9cafed8f-50f6-42d5-be91-f13fbea69b3e)
 
+![Screenshot 2024-10-03 003114](https://github.com/user-attachments/assets/75f1f553-06f7-4a07-9d28-835822d2e1be)
+
+![Screenshot 2024-10-03 003134](https://github.com/user-attachments/assets/ae8b2226-e6c1-429f-93ab-45a270512c33)
+
+
 
 
